@@ -39,4 +39,6 @@ network:
    nameservers:
     addresses: [192.168.1.1]
 </pre>    
+To activate the yaml file on Ubuntu 20.4:
 
+$ sudo netplan apply
