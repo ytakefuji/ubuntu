@@ -25,7 +25,7 @@ enp0s25 is the name of ethernet.
 wlp2s0 is the WiFi name.
 </pre>
 
-# yaml file: static address
+# yaml file: ethernet static address
 <pre>
 network:
  version: 2
