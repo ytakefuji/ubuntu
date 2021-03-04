@@ -42,3 +42,19 @@ network:
 To activate the yaml file on Ubuntu 20.4:
 
 $ sudo netplan apply
+
+# postfix mail
+
+Read the following site:
+https://github.com/ytakefuji/Mail-system
+
+Modify main.cf file at /etc/postfix/main.cf
+
+# apache2 web server using DynamicDNS
+
+https://github.com/ytakefuji/http-to-https
+
+
+
+
+
