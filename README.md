@@ -1,4 +1,4 @@
-# ubuntu 20.4
+# ubuntu 20.04
 
 <pre>
 NETWORK SETTING:
