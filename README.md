@@ -26,6 +26,7 @@ wlp2s0 is the WiFi name.
 </pre>
 
 # yaml file: ethernet static address
+static address=192.168.1.8
 <pre>
 network:
  version: 2
@@ -39,7 +40,7 @@ network:
    nameservers:
     addresses: [192.168.1.1]
 </pre>    
-To activate the yaml file on Ubuntu 20.4:
+To activate the yaml file on Ubuntu 20.04:
 
 $ sudo netplan apply
 
