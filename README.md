@@ -27,6 +27,8 @@ wlp2s0 is the WiFi name.
 
 # yaml file: ethernet static address
 static address=192.168.1.8
+
+/etc/netplan/xxx.yaml file is indent sensitive.
 <pre>
 network:
  version: 2
