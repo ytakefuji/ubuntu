@@ -2,9 +2,10 @@
 
 <pre>
 NETWORK SETTING:
-1. Modify  xxx.yaml file at /etc/netplan/xxx.yaml where yaml file is indent sensitive.
-2. Find the name of ethernet.
-3. This example is to setup the static address of ethernet.
+1. Modify  xxx.yaml file at /etc/netplan/xxx.yaml 
+   where yaml file is indent sensitive.
+3. Find the name of ethernet.
+4. This example is to setup the static address of ethernet.
 
 </pre>
 # Find the names of networking devices
